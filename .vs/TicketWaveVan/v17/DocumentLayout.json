@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\data\\ticketwavecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:data\\ticketwavecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\models\\eventtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:models\\eventtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\buy\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\buy\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denise\\source\\repos\\TWVancouver\\Data\\Migrations\\20250318060535_CU1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250318060535_CU1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\buy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\buy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\buy\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\buy\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\buy\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\buy\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\buy\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\buy\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\buy\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\buy\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\buy\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\buy\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\buy\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\buy\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\buy\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\buy\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\buy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\buy\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\ticketwavevan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:ticketwavevan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|c:\\users\\denise\\source\\repos\\twvancouver\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A9FE208-6415-45BD-BF85-1795E00C27DE}|TicketWaveVan.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:52:08.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Buy\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Buy\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:04:28.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Buy\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Buy\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T06:04:27.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventTickets.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Models\\EventTickets.cs",
+              "RelativeDocumentMoniker": "Models\\EventTickets.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Models\\EventTickets.cs",
+              "RelativeToolTip": "Models\\EventTickets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:37:13.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketWaveContext.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Data\\TicketWaveContext.cs",
+              "RelativeDocumentMoniker": "Data\\TicketWaveContext.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Data\\TicketWaveContext.cs",
+              "RelativeToolTip": "Data\\TicketWaveContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:04:26.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250318060535_CU1.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Data\\Migrations\\20250318060535_CU1.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250318060535_CU1.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Data\\Migrations\\20250318060535_CU1.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250318060535_CU1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:05:35.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:56:00.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:16:51.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Buy\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Buy\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:04:27.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Buy\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Buy\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T06:04:27.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Buy\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Buy\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:04:27.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Buy\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Buy\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T06:04:27.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Buy\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Buy\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:04:27.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Buy\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Buy\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T06:04:27.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Buy\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Buy\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:04:27.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Buy\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Buy\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Buy\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T06:04:27.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:06:29.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TicketWaveVan",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\TicketWaveVan.csproj",
+              "RelativeDocumentMoniker": "TicketWaveVan.csproj",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\TicketWaveVan.csproj",
+              "RelativeToolTip": "TicketWaveVan.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T04:49:26.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T04:14:13.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Denise\\source\\repos\\TWVancouver\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T03:56:46.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
