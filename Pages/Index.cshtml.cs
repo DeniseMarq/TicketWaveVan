@@ -1,14 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace TWVancouver.Pages;
-public class IndexModel(ILogger<IndexModel> logger) : PageModel
+namespace TicketWave.Pages;
+
+public class IndexModel : PageModel
 {
-    private readonly ILogger<IndexModel> _logger = logger;
+    private readonly ILogger<IndexModel> _logger;
+
+    public IndexModel(ILogger<IndexModel> logger)
+    {
+        _logger = logger;
+    }
 
     public void OnGet()
     {
 
     }
 }
-

@@ -1,7 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
-using TicketWaveVan.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Linq;
+using TicketWave.Models;  // Ensure the correct namespace
 
-namespace TicketWaveVan.Data
+namespace TicketWave.Data
 {
     public static class SeedData
     {
