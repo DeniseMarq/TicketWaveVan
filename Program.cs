@@ -12,16 +12,16 @@ builder.Services.AddRazorPages();
 builder.Services.AddDbContext<TicketWaveContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("TicketWaveContext") ?? throw new InvalidOperationException("Connection string 'TicketWaveContext' not found.")));
 // use SQLite in development and SQLServer in production
-if (builder.Environment.IsDevelopment())
-{
-    builder.Services.AddDbContext<TicketWaveContext>(options =>
-        options.UseSqlite(builder.Configuration.GetConnectionString("TicketWaveContext")));
-}
-else
-{
-    builder.Services.AddDbContext<TicketWaveContext>(options =>
-        options.UseSqlServer(builder.Configuration.GetConnectionString("ProductionTicketWaveContext")));
-}
+// if (builder.Environment.IsDevelopment())
+//{
+//    builder.Services.AddDbContext<TicketWaveContext>(options =>
+//        options.UseSqlite(builder.Configuration.GetConnectionString("TicketWaveContext")));
+//}
+// else
+//{
+//    builder.Services.AddDbContext<TicketWaveContext>(options =>
+//        options.UseSqlServer(builder.Configuration.GetConnectionString("ProductionTicketWaveContext")));
+//}
 builder.Services.AddScoped<UserService>();
 
 var app = builder.Build();

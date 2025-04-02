@@ -48,11 +48,11 @@ namespace TicketWave.Pages.Buy
                 return NotFound();
             }
 
-            var eventlisting = await _context.EventListing.FindAsync(id);
+            var eventlisting = await _context.EventListings.FindAsync(id);
             if (eventlisting != null)
             {
                 EventListing = eventlisting;
-                _context.EventListing.Remove(EventListing);
+                _context.EventListings.Remove(EventListing);
                 await _context.SaveChangesAsync();
             }
 

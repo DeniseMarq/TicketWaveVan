@@ -30,7 +30,7 @@ namespace TicketWave.Pages.Buy
                 return NotFound();
             }
 
-            var eventlisting =  await _context.EventListing.FirstOrDefaultAsync(m => m.EventListingID == id);
+            var eventlisting =  await _context.EventListings.FirstOrDefaultAsync(m => m.EventListingID == id);
             if (eventlisting == null)
             {
                 return NotFound();

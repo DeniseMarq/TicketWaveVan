@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using TicketWave.Services;
 
 [ApiController]
 [Route("api/users")]

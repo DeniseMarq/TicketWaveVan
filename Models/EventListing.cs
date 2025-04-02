@@ -1,6 +1,6 @@
 namespace TicketWave.Models;
 
-public class EventListing
+public class EventListings
 {
     public int EventListingID { get; set; }
     public string Name { get; set; } = string.Empty;
