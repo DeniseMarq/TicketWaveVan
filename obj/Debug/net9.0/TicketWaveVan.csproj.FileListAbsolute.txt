@@ -408,3 +408,16 @@ C:\Users\Denise\source\repos\TWVancouver\bin\Debug\net9.0\ru\Microsoft.CodeAnaly
 C:\Users\Denise\source\repos\TWVancouver\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Denise\source\repos\TWVancouver\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Denise\source\repos\TWVancouver\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.csproj.AssemblyReference.cache
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.AssemblyInfoInputs.cache
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.AssemblyInfo.cs
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.csproj.CoreCompileInputs.cache
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.RazorAssemblyInfo.cache
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.RazorAssemblyInfo.cs
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.sourcelink.json
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.dll
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\refint\TicketWaveVan.dll
+C:\Users\denni\Downloads\TicketWaveVanDM\obj\Debug\net9.0\TicketWaveVan.pdb
