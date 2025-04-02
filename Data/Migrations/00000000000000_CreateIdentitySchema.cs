@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace TicketWave.Data.Migrations
+namespace TWVancouver.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {
