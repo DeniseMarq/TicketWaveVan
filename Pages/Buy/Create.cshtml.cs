@@ -5,16 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using TWVancouver.Data;
-using TicketWaveVan.Models;
+using TicketWave.Data;
+using TicketWave.Models;
 
-namespace TicketWaveVan.Pages.Buy
+namespace TicketWave.Pages.Buy
 {
     public class CreateModel : PageModel
     {
-        private readonly TWVancouver.Data.TicketWaveContext _context;
+        private readonly TicketWave.Data.TicketWaveContext _context;
 
-        public CreateModel(TWVancouver.Data.TicketWaveContext context)
+        public CreateModel(TicketWave.Data.TicketWaveContext context)
         {
             _context = context;
         }
@@ -35,7 +35,7 @@ namespace TicketWaveVan.Pages.Buy
                 return Page();
             }
 
-            _context.EventListing.Add(EventListing);
+            _context.EventListings.Add(EventListing);
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");
