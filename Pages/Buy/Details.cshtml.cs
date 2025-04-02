@@ -5,16 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using TicketWave.Data;
-using TicketWave.Models;
+using TWVancouver.Data;
+using TicketWaveVan.Models;
 
-namespace TicketWave.Pages.Buy
+namespace TicketWaveVan.Pages.Buy
 {
     public class DetailsModel : PageModel
     {
-        private readonly TicketWave.Data.TicketWaveContext _context;
+        private readonly TWVancouver.Data.TicketWaveContext _context;
 
-        public DetailsModel(TicketWave.Data.TicketWaveContext context)
+        public DetailsModel(TWVancouver.Data.TicketWaveContext context)
         {
             _context = context;
         }

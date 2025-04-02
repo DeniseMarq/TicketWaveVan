@@ -5,16 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using TicketWave.Data;
-using TicketWave.Models;
+using TWVancouver.Data;
+using TicketWaveVan.Models;
 
-namespace TicketWave.Pages.Buy
+namespace TicketWaveVan.Pages.Buy
 {
     public class DeleteModel : PageModel
     {
-        private readonly TicketWave.Data.TicketWaveContext _context;
+        private readonly TWVancouver.Data.TicketWaveContext _context;
 
-        public DeleteModel(TicketWave.Data.TicketWaveContext context)
+        public DeleteModel(TWVancouver.Data.TicketWaveContext context)
         {
             _context = context;
         }
@@ -29,7 +29,7 @@ namespace TicketWave.Pages.Buy
                 return NotFound();
             }
 
-            var eventlisting = await _context.EventListings.FirstOrDefaultAsync(m => m.EventListingID == id);
+            var eventlisting = await _context.EventListing.FirstOrDefaultAsync(m => m.EventListingID == id);
 
             if (eventlisting is not null)
             {

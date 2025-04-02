@@ -3,7 +3,6 @@ using Microsoft.Extensions.DependencyInjection;
 using TicketWave.Data;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.Extensions.Hosting;
-using TicketWave.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,7 +21,7 @@ else
     builder.Services.AddDbContext<TicketWaveContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("ProductionTicketWaveContext")));
 }
-builder.Services.AddScoped<UserService>();
+
 
 var app = builder.Build();
 
@@ -47,7 +46,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-app.MapControllers();
+
 app.UseAuthorization();
 
 app.MapRazorPages();

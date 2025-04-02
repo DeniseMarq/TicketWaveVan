@@ -6,16 +6,16 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using TicketWave.Data;
-using TicketWave.Models;
+using TWVancouver.Data;
+using TicketWaveVan.Models;
 
-namespace TicketWave.Pages.Buy
+namespace TicketWaveVan.Pages.Buy
 {
     public class EditModel : PageModel
     {
-        private readonly TicketWave.Data.TicketWaveContext _context;
+        private readonly TWVancouver.Data.TicketWaveContext _context;
 
-        public EditModel(TicketWave.Data.TicketWaveContext context)
+        public EditModel(TWVancouver.Data.TicketWaveContext context)
         {
             _context = context;
         }
